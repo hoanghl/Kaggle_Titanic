@@ -1,0 +1,7 @@
+Pclass  :    418
+Sex  :       418
+Age  :       332
+SibSp  :     418
+Parch  :     418
+Fare  :      417
+Embarked  :  418

@@ -1,0 +1,688 @@
+Pclass           3
+Sex           male
+Age            NaN
+SibSp            0
+Parch            0
+Fare        7.8958
+Embarked         S
+Name: 10, dtype: object
+Pclass            1
+Sex          female
+Age             NaN
+SibSp             0
+Parch             0
+Fare        31.6833
+Embarked          S
+Name: 22, dtype: object
+Pclass            3
+Sex            male
+Age             NaN
+SibSp             2
+Parch             0
+Fare        21.6792
+Embarked          C
+Name: 29, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            1
+Parch            2
+Fare         23.45
+Embarked         S
+Name: 33, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            0
+Parch            0
+Fare          8.05
+Embarked         S
+Name: 36, dtype: object
+Pclass            3
+Sex            male
+Age             NaN
+SibSp             0
+Parch             0
+Fare        56.4958
+Embarked          S
+Name: 39, dtype: object
+Pclass          1
+Sex          male
+Age           NaN
+SibSp           0
+Parch           0
+Fare        26.55
+Embarked        S
+Name: 41, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        7.75
+Embarked       Q
+Name: 47, dtype: object
+Pclass            2
+Sex            male
+Age             NaN
+SibSp             0
+Parch             0
+Fare        15.5792
+Embarked          C
+Name: 54, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          1
+Parch          0
+Fare        16.1
+Embarked       S
+Name: 58, dtype: object
+Pclass           2
+Sex         female
+Age            NaN
+SibSp            0
+Parch            0
+Fare            21
+Embarked         S
+Name: 65, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        8.05
+Embarked       S
+Name: 76, dtype: object
+Pclass           3
+Sex           male
+Age            NaN
+SibSp            0
+Parch            0
+Fare        7.8958
+Embarked         S
+Name: 83, dtype: object
+Pclass            2
+Sex            male
+Age             NaN
+SibSp             0
+Parch             0
+Fare        10.7083
+Embarked          Q
+Name: 84, dtype: object
+Pclass            3
+Sex            male
+Age             NaN
+SibSp             1
+Parch             0
+Fare        14.4542
+Embarked          C
+Name: 85, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            0
+Parch            0
+Fare          7.75
+Embarked         Q
+Name: 88, dtype: object
+Pclass          3
+Sex          male
+Age           NaN
+SibSp           0
+Parch           0
+Fare        7.775
+Embarked        S
+Name: 91, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        8.05
+Embarked       S
+Name: 93, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        7.75
+Embarked       Q
+Name: 102, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        7.75
+Embarked       Q
+Name: 107, dtype: object
+Pclass           3
+Sex           male
+Age            NaN
+SibSp            0
+Parch            0
+Fare        8.7125
+Embarked         S
+Name: 108, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            0
+Parch            0
+Fare        7.7792
+Embarked         Q
+Name: 111, dtype: object
+Pclass           3
+Sex           male
+Age            NaN
+SibSp            0
+Parch            0
+Fare        6.4375
+Embarked         C
+Name: 116, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          1
+Parch          0
+Fare        7.75
+Embarked       Q
+Name: 121, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        7.75
+Embarked       Q
+Name: 124, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            2
+Parch            0
+Fare         23.25
+Embarked         Q
+Name: 127, dtype: object
+Pclass            3
+Sex          female
+Age             NaN
+SibSp             0
+Parch             4
+Fare        25.4667
+Embarked          S
+Name: 132, dtype: object
+Pclass           3
+Sex           male
+Age            NaN
+SibSp            1
+Parch            0
+Fare        6.4375
+Embarked         C
+Name: 133, dtype: object
+Pclass            1
+Sex            male
+Age             NaN
+SibSp             0
+Parch             0
+Fare        51.8625
+Embarked          S
+Name: 146, dtype: object
+Pclass          1
+Sex          male
+Age           NaN
+SibSp           0
+Parch           0
+Fare        26.55
+Embarked        S
+Name: 148, dtype: object
+Pclass           3
+Sex           male
+Age            NaN
+SibSp            0
+Parch            0
+Fare        7.8958
+Embarked         C
+Name: 151, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            0
+Parch            0
+Fare        7.7333
+Embarked         Q
+Name: 160, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare           7
+Embarked       S
+Name: 163, dtype: object
+Pclass            1
+Sex          female
+Age             NaN
+SibSp             0
+Parch             0
+Fare        27.7208
+Embarked          C
+Name: 168, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        7.55
+Embarked       S
+Name: 170, dtype: object
+Pclass           3
+Sex           male
+Age            NaN
+SibSp            0
+Parch            0
+Fare        7.2292
+Embarked         C
+Name: 173, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        7.75
+Embarked       Q
+Name: 183, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            8
+Parch            2
+Fare         69.55
+Embarked         S
+Name: 188, dtype: object
+Pclass         1
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare          26
+Embarked       S
+Name: 191, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            0
+Parch            0
+Fare        8.1125
+Embarked         S
+Name: 199, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            0
+Parch            0
+Fare          15.5
+Embarked         Q
+Name: 200, dtype: object
+Pclass            1
+Sex            male
+Age             NaN
+SibSp             0
+Parch             0
+Fare        25.7417
+Embarked          C
+Name: 205, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        7.05
+Embarked       S
+Name: 211, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            0
+Parch            0
+Fare        7.8792
+Embarked         Q
+Name: 216, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        8.05
+Embarked       S
+Name: 219, dtype: object
+Pclass            3
+Sex          female
+Age             NaN
+SibSp             0
+Parch             2
+Fare        15.2458
+Embarked          C
+Name: 225, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            0
+Parch            0
+Fare          7.75
+Embarked         Q
+Name: 227, dtype: object
+Pclass           3
+Sex           male
+Age            NaN
+SibSp            0
+Parch            0
+Fare        7.8792
+Embarked         Q
+Name: 233, dtype: object
+Pclass           3
+Sex           male
+Age            NaN
+SibSp            0
+Parch            0
+Fare        7.8875
+Embarked         S
+Name: 243, dtype: object
+Pclass          3
+Sex          male
+Age           NaN
+SibSp           1
+Parch           2
+Fare        23.45
+Embarked        S
+Name: 244, dtype: object
+Pclass            3
+Sex          female
+Age             NaN
+SibSp             1
+Parch             0
+Fare        14.4542
+Embarked          C
+Name: 249, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        7.55
+Embarked       S
+Name: 255, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        7.75
+Embarked       Q
+Name: 256, dtype: object
+Pclass           3
+Sex           male
+Age            NaN
+SibSp            0
+Parch            0
+Fare        7.8958
+Embarked         S
+Name: 265, dtype: object
+Pclass         1
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare           0
+Embarked       S
+Name: 266, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        7.55
+Embarked       S
+Name: 267, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            0
+Parch            0
+Fare          8.05
+Embarked         S
+Name: 268, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        7.75
+Embarked       Q
+Name: 271, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            1
+Parch            0
+Fare          15.5
+Embarked         Q
+Name: 273, dtype: object
+Pclass          3
+Sex          male
+Age           NaN
+SibSp           0
+Parch           0
+Fare        7.225
+Embarked        C
+Name: 274, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            0
+Parch            0
+Fare          7.75
+Embarked         Q
+Name: 282, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        7.25
+Embarked       S
+Name: 286, dtype: object
+Pclass           3
+Sex           male
+Age            NaN
+SibSp            0
+Parch            0
+Fare        7.2292
+Embarked         C
+Name: 288, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        8.05
+Embarked       S
+Name: 289, dtype: object
+Pclass         1
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        39.6
+Embarked       S
+Name: 290, dtype: object
+Pclass           3
+Sex           male
+Age            NaN
+SibSp            0
+Parch            0
+Fare        7.2292
+Embarked         C
+Name: 292, dtype: object
+Pclass            3
+Sex            male
+Age             NaN
+SibSp             2
+Parch             0
+Fare        21.6792
+Embarked          C
+Name: 297, dtype: object
+Pclass            2
+Sex            male
+Age             NaN
+SibSp             0
+Parch             0
+Fare        15.0458
+Embarked          C
+Name: 301, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            0
+Parch            0
+Fare          7.75
+Embarked         Q
+Name: 304, dtype: object
+Pclass          3
+Sex          male
+Age           NaN
+SibSp           0
+Parch           0
+Fare        7.575
+Embarked        S
+Name: 312, dtype: object
+Pclass          3
+Sex          male
+Age           NaN
+SibSp           0
+Parch           0
+Fare        7.225
+Embarked        C
+Name: 332, dtype: object
+Pclass           3
+Sex           male
+Age            NaN
+SibSp            0
+Parch            0
+Fare        7.2292
+Embarked         C
+Name: 339, dtype: object
+Pclass          3
+Sex          male
+Age           NaN
+SibSp           1
+Parch           9
+Fare        69.55
+Embarked        S
+Name: 342, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          1
+Parch          1
+Fare        14.5
+Embarked       S
+Name: 344, dtype: object
+Pclass           3
+Sex           male
+Age            NaN
+SibSp            0
+Parch            0
+Fare        7.8792
+Embarked         S
+Name: 357, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        7.75
+Embarked       Q
+Name: 358, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            1
+Parch            9
+Fare         69.55
+Embarked         S
+Name: 365, dtype: object
+Pclass            3
+Sex            male
+Age             NaN
+SibSp             1
+Parch             0
+Fare        14.4583
+Embarked          C
+Name: 366, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        7.75
+Embarked       Q
+Name: 380, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            0
+Parch            0
+Fare          14.5
+Embarked         S
+Name: 382, dtype: object
+Pclass           2
+Sex           male
+Age            NaN
+SibSp            0
+Parch            0
+Fare        12.875
+Embarked         S
+Name: 384, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            0
+Parch            0
+Fare        7.7208
+Embarked         Q
+Name: 408, dtype: object
+Pclass           3
+Sex         female
+Age            NaN
+SibSp            0
+Parch            0
+Fare          7.75
+Embarked         Q
+Name: 410, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        8.05
+Embarked       S
+Name: 413, dtype: object
+Pclass         3
+Sex         male
+Age          NaN
+SibSp          0
+Parch          0
+Fare        8.05
+Embarked       S
+Name: 416, dtype: object
+Pclass            3
+Sex            male
+Age             NaN
+SibSp             1
+Parch             1
+Fare        22.3583
+Embarked          C
+Name: 417, dtype: object
